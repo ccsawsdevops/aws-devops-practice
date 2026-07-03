@@ -10,7 +10,6 @@ phases:
   build:
     commands:
       - echo "Building application..."
-      - echo "Running tests..."
   post_build:
     commands:
       - echo "Build completed successfully"
